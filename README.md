@@ -12,13 +12,13 @@ Baseado no proejto Dev-Links criado no curso Dicover da Rocketseat, este é um a
 </p>
 
 <p align="center">
-  <img alt="Imagem com informações do projeto e um preview do layout pra mobile em primeiro plano. Nele está sendo apresentado o modo dark, com um background com imagem do espaço e mostrado uma foto preta e branca, circular, onde Djoseman está olhando para frente. Ele está vestido de camisa preta, boné preto escrito Inquérito e tem um fundo cinza. Também é mostrado o layout para desktop, em segundo plano, no modo light, com Djoseman vestido da mesma forma, porém olhando para baixo com o seu boné cobrindo o rosto" src="./assets/mylink_preview.png">
+  <img alt="Imagem com informações do projeto e um preview do layout pra mobile em primeiro plano. Nele está sendo apresentado o modo dark, com um background com imagem do espaço e mostrado uma foto preta e branca, circular, onde Djoseman está olhando para frente. Ele está vestido de camisa preta, boné preto escrito Inquérito e tem um fundo cinza. Também é mostrado o layout para desktop, em segundo plano, no modo light, com Djoseman vestido da mesma forma, porém olhando para baixo com o seu boné cobrindo o rosto" src="./assets/my-links_preview.png">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Imagens com detalhes ténicos do desingn do projeto MyLinks, como o backgroud, botão deslisante, perfil e avatares" src="./assets/mylink_style-guide.png" width="100%">
+  <img alt="Imagens com detalhes ténicos do desingn do projeto MyLinks, como o backgroud, botão deslisante, perfil e avatares" src="./assets/my-links_style-guide.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
