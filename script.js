@@ -16,7 +16,7 @@ function toggleMode() {
 
   // se tiver light mode, add a imagem light
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/djose-esconde-a-cara.png")
+    img.setAttribute("src", "./assets/avatar_lightmode.png")
     img.setAttribute(
       "alt",
       "Foto de Djoseman, em preto e branco. Ele está vestido de preto e usando um boné preto escrito Inquérito o qual esconde seu rosto, pois ele está olhando para baixo"
@@ -24,10 +24,10 @@ function toggleMode() {
   }
   // se tiver sem light, manter a imagem normal
   else {
-    img.setAttribute("src", "./assets/djose-mostra-a-cara.png")
+    img.setAttribute("src", "./assets/avatar_darkmode.png")
     img.setAttribute(
       "alt",
-      "Foto de Djoseman, em preto e branco. Ele está vestido de preto e usando um boné preto escrito Inquérito e olhando para frente rosto"
+      "Foto de Djoseman, em preto e branco. Ele está vestido de preto e usando um boné preto escrito Inquérito e olhando para frente"
     )
   }
 }
