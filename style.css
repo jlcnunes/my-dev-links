@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/mylink_mobile-darkmode_bg.png);
+  --bg-url: url(./assets/bg_mobile-darkmode.png);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -16,7 +16,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(./assets/mylink_mobile-lightmode_bg.png);
+  --bg-url: url(./assets/bg_mobile-lightmode.png);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -165,11 +165,11 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/mylink_desktop-darkmode_bg.png);
+    --bg-url: url(./assets/bg_desktop-darkmode.png);
   }
 
   .light {
-    --bg-url: url(./assets/mylink_desktop-lightmode_bg.png);
+    --bg-url: url(./assets/bg_desktop-lightmode.png);
   }
 }
 
